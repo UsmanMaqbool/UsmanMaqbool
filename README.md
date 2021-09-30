@@ -1,4 +1,4 @@
-<img src='https://usmanmaqbool.github.io/assets/images/logo-3.png' width='40'>
+<img src='https://usmanmaqbool.github.io/assets/images/logo-3.png' width='80'>
 ### Hi there 👋
 
 <!--

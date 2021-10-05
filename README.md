@@ -1,6 +1,5 @@
 <img src='https://usmanmaqbool.github.io/assets/images/logo-3.png' width='80'>
 
-### Hi there 👋
 - 🔭 I’m currently working on Mixed Reality, Place Recognition and Multi-Agent Robotics.
 - 🌱 I’m currently learning many things 😄. 
 - 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Dr. M. Usman Maqbool Bhutta](mailto:usmanmaqbool@outlook.com)
@@ -48,8 +47,8 @@ Here are some ideas to get you started:
 [![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
 
 
-### 📕 Latest Blog posts:
-<!-- BLOG-POST-LIST:START
+<!-- ### 📕 Latest Blog posts:
+ BLOG-POST-LIST:START
 - [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
  BLOG-POST-LIST:END -->
 

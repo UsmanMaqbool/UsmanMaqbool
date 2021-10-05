@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Links
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+
 [![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
+

@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+<!--
 ### 📊 GitHub Stats:
 
-<!-- [![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
+ [![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
 
 
 ### 📕 Latest Blog posts:

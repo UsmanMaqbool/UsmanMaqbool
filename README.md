@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 
-[![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
+<!-- [![usmanmaqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmaqbool)](https://github.com/usmanmaqbool/github-readme-stats)
 
 
-<!-- ### 📕 Latest Blog posts:
+### 📕 Latest Blog posts:
  BLOG-POST-LIST:START
 - [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
  BLOG-POST-LIST:END -->
